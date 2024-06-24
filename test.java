@@ -5,5 +5,7 @@ public class test {
         System.out.println("Hello but again and again!");
 
         System.out.println("dont close this pls");
+
+        System.out.println("PR 2 Merge thing :)");
     }
 }
